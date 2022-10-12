@@ -58,3 +58,4 @@
 #     print("TAK, plaz przeskoczy")
 # else:
 #     print("NIE, zaba nie da rady")
+
