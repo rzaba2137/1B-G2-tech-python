@@ -46,7 +46,7 @@
 # a = int(input())
 # p = int(input())
 # if (a**p - a) % p == 0:
-#     print("TAK spełnia MTF")
+    # print("TAK spełnia MTF")
 # else:
 #     print("NIE spełnia MTF")
 
