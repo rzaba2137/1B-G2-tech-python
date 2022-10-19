@@ -31,7 +31,26 @@
 #     print(i*i, end = " ")
 
 #zad 3
-n = int(input())
-for i in range(1, n+1):
-    if n % i == 0:
-        print(i)
+# n = int(input())
+# for i in range(1, n+1):
+#     if n % i == 0:
+#         print(i)
+
+#zad 4
+# suma = 0
+# for i in range(10, 100):
+#     suma = suma + i
+# print(suma)
+
+#suma liczb trzycyfrowych parzystych 
+suma = 0
+for i in range(100, 1000, 2):
+    suma = suma + i
+print(suma)
+
+#zad 5
+liczba = 0
+a = int(input("Podaj liczbę graczy: "))
+for int(input("Podaj liczbę graczy: "))
+    if 
+int(input("Podaj liczbę: "))
