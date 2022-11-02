@@ -38,11 +38,11 @@
 #zad 8
 # w = int(input( "Kapitał początkowy: " ))
 # l = int(input( "Lata trwania inwestycji: " ))
-# wk = 0
+# wl = 0
 # suma = w
 # for i in range(1, l * 12):
-#     kw = suma * 0.06 * (1/12)
-#     suma = suma + kw
+#     lw = suma * 0.06 * (1/12)
+#     suma = suma + wl
 # print( "Końcowy kapitał będzie wynosił: ", suma)
 
 #zad 9
@@ -50,9 +50,9 @@
 # b = 21
 # suma = 0
 # for i in range(0, n+1):
-#     for j in range(0, i, b):
+#     for n in range(0, i, b):
 #         suma = 0
-#         j = j + 100
+#         n = n + 100
 # print(suma)
 
 # zad 10
@@ -61,4 +61,4 @@
 #     if i % 10 == sqrt(i):
 #         print(i)
 #     elif i % 100 == sqrt(i):
-#         print(i)
+#         print(i)-
