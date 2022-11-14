@@ -1,3 +1,4 @@
+
 # zad 1
 # a = int(input("Podaj liczbe"))
 # if a % 3 == 0:

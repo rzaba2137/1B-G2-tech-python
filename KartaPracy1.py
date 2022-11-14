@@ -17,8 +17,8 @@
 
 # zad 4
 
-# a, b, c = int(input()), int(input())
-# print(a - b - c)
+a, b, c = int(input()), int(input())
+print(a - b - c)
 
 # zad 5
 
