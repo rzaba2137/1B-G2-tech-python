@@ -5,9 +5,8 @@ for i in range(2, n):
     if n % i == 0:
         licznik += 1
 
-
 if licznik == 0:
-     print("Liczba jest pierwsza ")
+    print("Liczba jest pierwsza ")
 else:
     print("Liczba nie jest pierwsza")
 znak = input("Chcesz kolejną liczbę T/N")
