@@ -25,40 +25,41 @@
 
 #zad 6
 # k = int(input())
-# for i in range(2, (k*2)+2, 2):
-#     suma = suma + i
-# print(suma)
+# a = 0
+# for i in range(0,2 * k,2):
+#     a += i 
+# print(a)
 
 #zad 7
 # m = int(input())
-# for i in range(11, (m*2+2, 11)):
-#     suma = suma + i
-# print(suma)
+# for i in range(11, m * 2 + 10,2):
+#     if i < 100:
+#         m += i
+# print(m)
 
 #zad 8
-# w = int(input( "Kapitał początkowy: " ))
-# l = int(input( "Lata trwania inwestycji: " ))
+# w = int(input("Kapitał początkowy: "))
+# l = int(input("Lata trwania inwestycji: "))
 # wl = 0
 # suma = w
 # for i in range(1, l * 12):
 #     lw = suma * 0.06 * (1/12)
-#     suma = suma + wl
-# print( "Końcowy kapitał będzie wynosił: ", suma)
+# suma = suma + wl
+# print("Końcowy kapitał będzie wynosił: ", suma)
 
 #zad 9
 # n = int(input())
 # b = 21
 # suma = 0
-# for i in range(0, n+1):
+# for i in range(0, n + 1):
 #     for n in range(0, i, b):
 #         suma = 0
 #         n = n + 100
 # print(suma)
 
 # zad 10
-# from cmath import sqrt
-# for i in range(1, 1000):
-#     if i % 10 == sqrt(i):
+# for i in range (1, 1000):
+#     if i % 10 == i ** (1/2):
 #         print(i)
-#     elif i % 100 == sqrt(i):
-#         print(i)-
+#     elif i % 100 == i ** (1/2):
+#         print(i)

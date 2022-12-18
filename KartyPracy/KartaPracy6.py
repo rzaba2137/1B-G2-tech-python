@@ -76,14 +76,4 @@
 #     suma = suma + i
 # print(suma)
 
-#opcja2
-n = int(input())
-suma = 0
-licznik = 0
-for i in range(999,99,-1):
-    if i % 37 == 0:
-        suma = suma + i
-        licznik = licznik + 1
-    if licznik == n:
-        break
-    
+#zad2
