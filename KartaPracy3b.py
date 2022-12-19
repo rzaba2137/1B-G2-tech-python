@@ -7,7 +7,8 @@
 #     print(i**2, end=" ")
 
 #zad 3 
-# for i in range(1137, 10000, 379):
+# for i in range(999,10000):
+#     if i % 379 == 0:
 #     print(i, end=" ")
 
 #zad 4
