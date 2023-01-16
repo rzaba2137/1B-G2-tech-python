@@ -69,3 +69,4 @@
 #         print(f" TAK, {i} i {m} są względnie pierwsze ")
 #     else:
 #         print(f" NIE, {i} i {m} nie są względnie pierwsze ")
+
