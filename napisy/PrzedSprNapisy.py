@@ -40,4 +40,6 @@ h = input()
 ilość = 0
 for i in range(len(h)):
     if h[i:i+2] == "LA":
+    if h[i] == "L" and h[i+1] == "a":    
+    if h[i] + h[i+1] == "LA":
         ilość += 1
